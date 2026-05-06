@@ -1,8 +1,8 @@
 # ADR 001: Adoção de Arquitetura de Microsserviços
 
-*   Status: Aceita
-*   Data: 06-05-2026
-*   Decisores: Nathan Barbosa, Breno Augusto Ferreira, Hugo Coelho, Felipe Leite, Carlos Eduardo Teixeira, Vinicius Lidington, Guilherme Campelo
+*   **Status:** Aceita
+*   **Data:** 29-04-2026
+*   **Decisores:** Nathan Barbosa, Breno Augusto Ferreira, Hugo Coelho, Felipe Leite, Carlos Eduardo Teixeira, Vinicius Lidington, Guilherme Campelo
 
 ## Contexto e Problema
 
