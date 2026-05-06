@@ -1,4 +1,4 @@
-# ADR 003: Gestão de Transações Distribuídas via Saga Pattern
+# ADR 004: Segregação de Responsabilidade (CQRS) e Arquitetura Hexagonal
 
 *   **Status:** Aceita
 *   **Data:** 29-04-2026
